@@ -125,8 +125,8 @@ static const uint8_t P2_7 = 25;
 static const uint8_t P2_6 = 26;
 static const uint8_t P1_0 = 31;
 
-static const uint8_t RED_LED = P2_7;
-static const uint8_t GREEN_LED = P2_6;
+static const uint8_t RED_LED = 25;
+static const uint8_t GREEN_LED = 26;
 
 #define PIN_MOSI  P1_7
 #define PIN_MISO  P1_6
